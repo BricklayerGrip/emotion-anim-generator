@@ -1,0 +1,12 @@
+[render]
+fps = 24
+width = 512
+height = 512
+duration_s = 2.0
+
+[backend]
+name = "dummy"
+device = "cpu"
+
+emotion_pack = "basic_v1"
+# ffmpeg_path = "C:/tools/ffmpeg/bin/ffmpeg.exe"
