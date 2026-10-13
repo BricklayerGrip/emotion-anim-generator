@@ -1,0 +1,27 @@
+# emotion-anim-generator
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+env/
+.env
+.idea/
+.vscode/
+*.log
+logs/
+.cache/
+models/
+*.onnx
+*.pt
+*.safetensors
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.mp4
+*.gif
+renders/
+.DS_Store
+Thumbs.db
